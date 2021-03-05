@@ -1,2 +1,1 @@
-# bookinfo-details
-bookinfo service
+# Bookinfo Application for Workshop
