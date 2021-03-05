@@ -1,0 +1,2 @@
+# bookinfo-details
+bookinfo service
