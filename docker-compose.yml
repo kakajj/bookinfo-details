@@ -1,6 +1,6 @@
 services:
   details:
     build: .
-    image: ghcr.io/lengleng9090/bookinfo-details:dev
+    image: ghcr.io/kakajj/bookinfo-details:uat
     ports:
       - "9080:9080"
